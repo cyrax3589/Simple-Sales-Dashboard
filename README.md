@@ -66,4 +66,5 @@ This project showcases an interactive Power BI dashboard built using Superstore 
     5. Sales peaked during Q4 of each year, indicating seasonal demand trends worth capitalizing on in future campaigns.
 
 ## Visual
+<img width="1143" height="642" alt="image" src="https://github.com/user-attachments/assets/e76dbedc-fd6f-46e6-a44f-dd2c0a8b4df7" />
 
