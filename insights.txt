@@ -1,0 +1,12 @@
+Total Sales Insights – Superstore Dashboard
+Date Range: 03-01-2015 to 30-12-2018
+
+    1. The West region led in total sales, generating ₹0.71M, followed closely by the East with ₹0.67M.
+
+    2. Among product categories, Furniture performed best with ₹827.46K in sales (36.59%), followed by Office Supplies and Technology.
+
+    3. October 2015 and December 2016 were the strongest sales months, reaching ₹82K and ₹75K respectively.
+
+    4. Top product by revenue: "1.7 Cubic Foot Compact 'Cube' Office Refrigerators" with ₹1.47L in total sales.
+
+    5. Sales peaked during Q4 of each year, indicating seasonal demand trends worth capitalizing on in future campaigns.
